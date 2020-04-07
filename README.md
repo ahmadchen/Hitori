@@ -1,7 +1,7 @@
 Hitori (ひとりにしてくれ)
 ========
 
-### [Play Now &rarr;](https://ahmadchen.github.io/hitori/)
+### [Play Now &rarr;](https://ahmadchen.github.io/Hitori/index.html)
 
 ![](img/1.png)
 
